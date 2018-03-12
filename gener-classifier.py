@@ -18,7 +18,7 @@ clf = clf.fit(X, Y)
 clf2 = clf2.fit(X,Y)
 clf3 = clf3.fit(X, Y)
 
-
+prediction = clf.predict(X)
 acc = metrics.accuracy_score(Y, prediction) * 100
 prediction2 = clf2.predict(X)
 acc2 = metrics.accuracy_score(Y, prediction2) * 100
