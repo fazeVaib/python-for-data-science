@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/usr/bin/python3",
+    "python.pythonPath": "/home/fazevaib/anaconda3/bin/python",
     "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }
